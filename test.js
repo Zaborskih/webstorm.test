@@ -4,7 +4,7 @@ function init() {
     var huyak = document.getElementById("huyak");
 
     huyak.onclick = function () {
-        console.log(10);
+        console.log(11);
     };
 }
 
